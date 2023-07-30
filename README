@@ -3,3 +3,5 @@ This projected was developed as a personal project and to be of use to me as a g
 iOS app in Swift:
 
 *Multiple course selections, individual course grades, individual assignment grades and weights. Theme selector
+**Current version is v1. Plans for v2 include GPA calculator, and calculating assignment group averages through each individual assignment. 
+(Example: The HW group grade which consists of 10 assignments can be automatically calculated by totaling and averaging each homework assignment.)
